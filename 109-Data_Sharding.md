@@ -16,4 +16,4 @@ What is the main advantage of sharding?
 ---
 
 # Solution description
-*2* -- > Sharding distributes data across multiple nodes for better scalability.
+*2* --> Sharding distributes data across multiple nodes for better scalability.
